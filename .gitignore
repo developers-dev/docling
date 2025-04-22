@@ -1,5 +1,5 @@
 model_artifacts/
-scratch/
+scratch/*
 ds_convert_models/
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,macos,virtualenv,pycharm,visualstudiocode,emacs,vim,jupyternotebooks
@@ -439,3 +439,6 @@ pip-selfcheck.json
 # Docs
 # docs/**/*.png
 # docs/**/*.svg
+
+
+/data/*
